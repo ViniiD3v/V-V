@@ -1,0 +1,17 @@
+* h5{
+    color: white;
+    font-family: "Dancing Script";
+    font-size: 20px;
+}
+
+.carousel-inner img {
+    max-width: 800px;
+    max-height: 800px;
+    -webkit-box-shadow: -2px 10px 29px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 10px 29px -9px rgba(0,0,0,0.75);
+    box-shadow: -2px 10px 29px -9px rgba(0,0,0,0.75);
+}
+
+.carousel-vv {
+    background-color: #eae5e1;
+}

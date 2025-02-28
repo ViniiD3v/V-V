@@ -1,0 +1,47 @@
+* h1, h2, p{
+    color: #1d1a19;
+    font-family: "Dancing Script";
+}
+
+.main-vv{
+    width: 100%;
+    max-height: 919px;
+    background-color: #eae5e1;
+}
+
+.title-vv {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 100%;
+}
+
+.title-vv h1 {
+    font-size: 40px;
+}
+
+.title-vv h2 {
+    font-size: 20px;
+}
+
+.title-vv p{
+    display: flex;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.photo-vv img{
+    width: 250px;
+    height: 250px; 
+    border-radius: 50%;
+    object-fit: cover;
+    -webkit-box-shadow: -2px 10px 29px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 10px 29px 1px rgba(0,0,0,0.75);
+    box-shadow: -2px 10px 29px 1px rgba(0,0,0,0.75);
+}
+
+@media (min-width: 0px) and (max-width: 720px) {
+    
+}
